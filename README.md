@@ -27,7 +27,7 @@ Follow these steps to get the project up and running locally:
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/task-management-api.git
+git clone https://github.com/Narek1331/effective-mobile-task
 cd task-management-api
 ```
 
