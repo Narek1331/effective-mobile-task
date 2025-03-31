@@ -28,7 +28,7 @@ Clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/Narek1331/effective-mobile-task
-cd task-management-api
+cd effective-mobile-task
 ```
 
 ### 2. Install Dependencies
